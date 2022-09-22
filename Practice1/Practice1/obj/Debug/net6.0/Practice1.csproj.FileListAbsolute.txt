@@ -1,0 +1,15 @@
+C:\Users\Sharp\RiderProjects\Practice1\Practice1\bin\Debug\net6.0\Practice1.exe
+C:\Users\Sharp\RiderProjects\Practice1\Practice1\bin\Debug\net6.0\Practice1.deps.json
+C:\Users\Sharp\RiderProjects\Practice1\Practice1\bin\Debug\net6.0\Practice1.runtimeconfig.json
+C:\Users\Sharp\RiderProjects\Practice1\Practice1\bin\Debug\net6.0\Practice1.dll
+C:\Users\Sharp\RiderProjects\Practice1\Practice1\bin\Debug\net6.0\Practice1.pdb
+C:\Users\Sharp\RiderProjects\Practice1\Practice1\obj\Debug\net6.0\Practice1.csproj.AssemblyReference.cache
+C:\Users\Sharp\RiderProjects\Practice1\Practice1\obj\Debug\net6.0\Practice1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sharp\RiderProjects\Practice1\Practice1\obj\Debug\net6.0\Practice1.AssemblyInfoInputs.cache
+C:\Users\Sharp\RiderProjects\Practice1\Practice1\obj\Debug\net6.0\Practice1.AssemblyInfo.cs
+C:\Users\Sharp\RiderProjects\Practice1\Practice1\obj\Debug\net6.0\Practice1.csproj.CoreCompileInputs.cache
+C:\Users\Sharp\RiderProjects\Practice1\Practice1\obj\Debug\net6.0\Practice1.dll
+C:\Users\Sharp\RiderProjects\Practice1\Practice1\obj\Debug\net6.0\refint\Practice1.dll
+C:\Users\Sharp\RiderProjects\Practice1\Practice1\obj\Debug\net6.0\Practice1.pdb
+C:\Users\Sharp\RiderProjects\Practice1\Practice1\obj\Debug\net6.0\Practice1.genruntimeconfig.cache
+C:\Users\Sharp\RiderProjects\Practice1\Practice1\obj\Debug\net6.0\ref\Practice1.dll
